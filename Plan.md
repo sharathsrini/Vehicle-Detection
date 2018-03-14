@@ -45,7 +45,17 @@
 * HOG
     * Start with the intensity of the of the Direction of the Gradient in each pixel and create a signature. 
     * https://www.learnopencv.com/histogram-of-oriented-gradients/
+    * 
     
 * Feature Extraction
     * This phase could be used to reduce the dimensionality by either using decisio Tree or PCA
     
+##### Training The network
+* SVC - parameters to tune :C ,Gamma, Kernel etc.
+* Grid Search these values
+* Accuracy
+* Model.
+###### Sliding Window:
+    * Define X1,X2 and Y1,Y2
+    * Define the size of the window
+    * Resize, Extract Features, Predict and Classsify.
