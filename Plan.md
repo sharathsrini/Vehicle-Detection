@@ -59,3 +59,6 @@
     * Define X1,X2 and Y1,Y2
     * Define the size of the window
     * Resize, Extract Features, Predict and Classsify.
+    * Define and run the Window with algoritm(Each Window)
+    * cv2.Rectangle to draw the boxes
+    
