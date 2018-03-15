@@ -62,3 +62,8 @@
     * Define and run the Window with algoritm(Each Window)
     * cv2.Rectangle to draw the boxes
     
+#### 15-03-2018
+1. Number of windows
+2. Size of the Window.
+3. X1, X2, Y1, Y2 must be considered based on the size of the window.
+4. Overlapping is a parameter that has to be tuned.
