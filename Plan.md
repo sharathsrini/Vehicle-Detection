@@ -68,7 +68,7 @@
 3. X1, X2, Y1, Y2 must be considered based on the size of the window.
 4. Overlapping is a parameter that has to be tuned.
 
-###### skimage.hog()
+### skimage.hog()
 1. The scikit-image hog() function takes in a single color channel or grayscaled image as input, as well as various parameters. These parameters include orientations, pixels_per_cell and cells_per_block.
 
 2. The number of orientations is specified as an integer, and represents the number of orientation bins that the gradient information will be split up into in the histogram. Typical values are between 6 and 12 bins.
